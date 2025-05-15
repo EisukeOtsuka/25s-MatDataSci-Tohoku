@@ -5,9 +5,9 @@
 |----------|----------|----------|----------|----------|
 | w01: Th:Apr 17 Module 1    | Intro to Materials Data Science     | VS Code, Git, Python    | [Paper 1](https://www.nature.com/articles/s41586-023-06735-9)   | -    |
 |  w02: Th: Apr 24 Module 2  | Data Acquisition and Preparation     |  Python Basics, Google Colab, Intro-Graph  |  [HydraGNN](https://arxiv.org/pdf/2406.12909v1), [Github](https://github.com/ORNL/HydraGNN), [Video](https://www.youtube.com/watch?v=U5oHXGcHBdk)  | Find Data Set (No grade)   |
-|  w03: Th: May 01 Module 3  | Machine/Deep Learning for Materials Science     |      |   [Image Segmentation](https://doi.org/10.1038/s41524-022-00878-5),[Code](https://github.com/nasa/pretrained-microscopy-models) | Project Update 1, Assignment/Quiz 1  |
-| w04: Th: May 08 Module 4   | Graphs     |      |  [Anomaly detection](https://doi.org/10.1007/s11263-020-01400-4)   |     |
-| w05: Th: May 15 Module 5   | Applications of Materials Data Science- I     |      |     | Project Update 2, Assignment/Quiz-2   |
+|  w03: Th: May 01 Module 3  | Machine/Deep Learning for Materials Science     |  Data Wrangling, image analysis    |   [Image Segmentation](https://doi.org/10.1038/s41524-022-00878-5),[Code](https://github.com/nasa/pretrained-microscopy-models) | Project Update 1, Assignment/Quiz 1  |
+| w04: Th: May 08 Module 4   | Graphs     |  Graph classification, node classification    |  [Anomaly detection](https://doi.org/10.1007/s11263-020-01400-4)   |     |
+| w05: Th: May 15 Module 5   | Generative Modeling/Synthetic Data     |  Graph Data Handling    |  [Stable-diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui?tab=readme-ov-file)  | Project Update 2, Assignment/Quiz-2   |
 | w06: Th: May 22 Module 6  | Applications of Materials Data Science- II    |      |     | Final Presentation    |
 |May 29 | | | | Final Report |
 ------------------------------------------------------------------------
